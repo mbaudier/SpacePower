@@ -5,3 +5,7 @@ Bundle-SymbolicName: eu.mbaudier.spacepower
 Bundle-Version: 1.0.0.qualifier
 Automatic-Module-Name: eu.mbaudier.spacepower
 Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: org.eclipse.swt,
+ org.eclipse.swt.graphics,
+ org.eclipse.swt.layout,
+ org.eclipse.swt.widgets
