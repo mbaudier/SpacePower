@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Spacepower
+Bundle-SymbolicName: eu.mbaudier.spacepower
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: eu.mbaudier.spacepower
+Bundle-RequiredExecutionEnvironment: JavaSE-11
